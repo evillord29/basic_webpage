@@ -1,0 +1,9 @@
+.one,.two{
+    color: linear-gradient;
+}
+
+body {
+    background-image: url(https://media.giphy.com/media/WmoRCpNTBjETF6T22d/giphy.gif?cid=790b7611tnyay1mjap4x06fyggz4r7y2iaderoekds2325hx&ep=v1_gifs_search&rid=giphy.gif&ct=g);
+    background-repeat: no-repeat;
+    background-position: center;
+}
